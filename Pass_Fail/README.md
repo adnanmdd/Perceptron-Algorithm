@@ -5,7 +5,7 @@
 The perceptron algorithm can be used to solve a simple <strong>Pass vs Fail</strong> classification problem.
 In this case, student data (study hours and sleep hours) is used as input features.
 The perceptron learns a linear decision boundary that separates students into two categories:
-<strong>Pass (+1)</strong> and <strong>Fail (-1)</strong>.
+<strong>Pass (+1)</strong> and <strong>Fail (0)</strong>.
 </p>
 
 <h3>Outcome Achieved</h3>
